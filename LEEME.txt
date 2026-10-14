@@ -1,0 +1,20 @@
+RULETA "EL CIRCO DEL DESIGN THINKING"
+
+COMO USARLA
+1. Descomprime la carpeta (clic derecho > Extraer todo).
+2. Abre index.html con Chrome, Edge o Firefox (doble clic).
+3. Necesita internet solo para las tipografias; sin internet funciona
+   igual con letras del sistema.
+
+COMO EDITARLA (config.js, con el Bloc de notas o VS Code)
+- Titulo, subtitulo y texto del boton.
+- Nombres de los integrantes.
+- Colores de cada sector y de la pagina.
+- imagenesFondo: imagen que reemplaza el color de cada sector.
+  Guarda la imagen en la carpeta "imagenes" y escribe su ruta, en orden:
+  imagenesFondo: ["imagenes/a.jpg", "imagenes/b.jpg", "", "", ""]
+Guarda y recarga la pagina (F5, o Ctrl + F5) para ver los cambios.
+
+AL GIRAR
+- Aparece solo el nombre del integrante que salio (y su foto, si la subes
+  desde "Configurar integrantes").

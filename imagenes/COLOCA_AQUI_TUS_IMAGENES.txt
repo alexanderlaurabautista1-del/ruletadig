@@ -1,0 +1,3 @@
+Guarda aqui tus imagenes (jpg, png o webp) y escribe su nombre en config.js, en "imagenesFondo".
+Ejemplo: "imagenes/integrante1.jpg"
+Evita espacios y tildes en los nombres de archivo.
